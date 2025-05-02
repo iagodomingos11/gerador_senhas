@@ -1,2 +1,2 @@
 # Gerador de Senhas
-projeto gerador de senhas aleatórias
+projeto gerador de senhas aleatórias, com interface.
